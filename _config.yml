@@ -1,7 +1,7 @@
 # Site settings
 title: Prasanth Kumar
 description: Jekyll Theme Minimal Resume
-# baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/"
  url:  "https://prasanth.github.io"
 
 # User settings
